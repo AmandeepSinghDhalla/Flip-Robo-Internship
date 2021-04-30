@@ -1,2 +1,3 @@
-# Flip-Robo-Internship
-This repository consists all the tasks and projects assigned to me during my Internship for Flip Robo Technologies.
+Micro Finance Institution (MFI) help in providing financial aid to the low-income families of a population. Our client is one of such MFI in the Telecom Industry. Loan is provided by client in 5 or 10 Indonesian Rupiah to the customer for which they have to return 6 and 12 Indonesian Rupiah respectively after 5 days. The main problem that I solved in this project is helping the client to identify whether the customer will return the loan money along with the interest in the span of 5 days of loan sanction or not by building a Classification Machine Learning Model using Random Forest Classifier Algorithm.
+
+The complete problem coding jupyter notebook is present inside the "Micro Credit Loan Model - Amandeep Singh.zip" file along with the problem documentation and powerpoint presentation.
